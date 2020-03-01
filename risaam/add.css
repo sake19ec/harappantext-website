@@ -1,0 +1,41 @@
+img{
+    width: 17em;
+    margin-left: 20em ;
+    margin-top: 0.15em;
+    margin-bottom: 0.01em;
+
+}
+
+body{
+
+    background-image: url('indu.jpg') ;
+    font-size: 2em;
+    
+    
+}
+
+
+
+.mage{
+    border-radius: 3em;
+    width: 6em;
+    margin-left: 30em;
+    border: 5;
+    border-color: black;
+
+}
+
+h2{
+    color:#15241a;
+    margin-left: 1em;
+}
+
+ul{
+
+    
+}
+
+p{
+    text-decoration:  overline;
+    word-spacing: 5px;
+}
